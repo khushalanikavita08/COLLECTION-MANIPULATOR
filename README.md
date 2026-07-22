@@ -203,15 +203,16 @@ Potential improvements for the project:
 
 ---
 
+## 💻sample output 
+<img width="1366" height="1888" alt="image" src="https://github.com/user-attachments/assets/116bd3db-8458-4562-a220-421d5d4ff7b5" />
+
+
 ## 🤝 Contributing
 
 Suggestions and improvements are welcome! Feel free to fork this project, experiment with new features, and share your ideas.
 
 ---
 
-## 📄 License
-
-This project is open for learning and personal use. Feel free to modify and build upon it.
 
 ---
 
