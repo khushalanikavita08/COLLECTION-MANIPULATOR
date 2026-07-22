@@ -230,5 +230,4 @@ If this project helped you or inspired your own CLI app, consider giving it a �
 
 ## 👩‍💻 Author
 
-**Khushalani Kavita**
-🇮🇳 India
+**Khushalani Kavita** 📍India
