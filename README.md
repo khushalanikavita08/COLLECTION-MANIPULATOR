@@ -205,6 +205,8 @@ Potential improvements for the project:
 
 ## 💻sample output 
 <img width="1366" height="1888" alt="image" src="https://github.com/user-attachments/assets/116bd3db-8458-4562-a220-421d5d4ff7b5" />
+## watch video here
+https://drive.google.com/file/d/1_m4fIzNQw43-A3VDO-xwSX80dMxPzrSJ/view?usp=drive_link
 
 
 ## 🤝 Contributing
