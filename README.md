@@ -19,16 +19,11 @@ It helps manage important student information such as:
 - 📅 Date of Birth
 - 📚 Subjects Enrolled
 
+## 🧭 Project Structure
 
 <img width="662" height="508" alt="structure" src="https://github.com/user-attachments/assets/37ff7581-2108-4a68-8540-5d1b074ec8c1" />
 
 The program converts **manual record-keeping into a simple, interactive terminal tool** — making it easy to add, search, update, and delete student data, all without needing a database or external library.
-
----
-
-## 🧭 Project Structure
-
-![Project Structure](structure.png)
 
 ---
 
